@@ -1,16 +1,16 @@
 {
   "private": true,
-  "displayName": "Plugin Name",
-  "name": "homebridge-plugin-name",
+  "displayName": "Arctic Spas Homebridge Plugin",
+  "name": "homebridge-arcticspas",
   "version": "1.0.0",
-  "description": "A short description about what your plugin does.",
+  "description": "Designed to view and control your ArcticSpa 2020 or later tub via their OpenAPI.",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME.git"
+    "url": "https://github.com/fiidim/homebridge-arcticspas.git"
   },
   "bugs": {
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME/issues"
+    "url": "https://github.com/fiidim/homebridge-arcticspas/issues"
   },
   "engines": {
     "node": ">=14.18.1",
